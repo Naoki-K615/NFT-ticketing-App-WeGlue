@@ -19,11 +19,11 @@ This repository demonstrates a full NFT ticketing system, from smart contracts t
 ## How to Setup:
 1) Install [Node js](https://nodejs.org/en/download/)
 
-2) Clone this repository using ```git clone https://github.com//Naoki-K615/NFT-Ticketing-Frontend.git```
+2) Clone this repository using ```git clone https://github.com/Naoki-K615/NFT-ticketing-App-WeGlue.git```
 
 3) Run ```npm i``` to install dependencies.
 
-4) Change directory to the client folder by running ```cd client``` then run ```npm i``` to install dependencies.
+4) Change directory to the client folder by running ```cd Frontend``` then run ```npm i``` to install dependencies.
 
 5) Run ```npm start``` to start the server.
 
